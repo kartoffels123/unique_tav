@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="10" build="302" lslib_meta="v1,bswap_guids" />
+	<region id="VisualSetSlotsSystem">
+		<node id="VisualSetSlotsSystem">
+			<children>
+				<node id="AttachmentsMappings">
+					<children>
+
+						<!-- TIF FEMALE TAIL -->
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="04883d8a-bbfa-46ff-8984-b257c871bec3" />
+							<children>
+								<node id="MapValue">
+									<attribute id="Object" type="FixedString" value="8774bce9-d5dc-4993-84f8-75cc4a634ca8" />
+								</node>
+							</children>
+						</node>
+						<!-- TIF FEMALE STRONG TAIL -->
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="7c13b43c-0bbb-4c66-b9ad-a76dbc1bf4e8" />
+							<children>
+								<node id="MapValue">
+									<attribute id="Object" type="FixedString" value="ccb2bf76-8a52-4565-a624-c43aa33f9b1e" />
+								</node>
+							</children>
+						</node>
+						<!-- TIF MALE TAIL -->
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="6790f60d-6124-4e26-885e-e3b44dcd467e" />
+							<children>
+								<node id="MapValue">
+									<attribute id="Object" type="FixedString" value="839ef9d9-c988-451a-a4d4-e8ff5207f5b3" />
+								</node>
+							</children>
+						</node>
+						<!-- TIF MALE STRONG TAIL -->
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="fb3af81e-0311-4366-9fa4-26361e585be8" />
+							<children>
+								<node id="MapValue">
+									<attribute id="Object" type="FixedString" value="ca7f7224-2040-4a8f-a917-d652b206de9b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

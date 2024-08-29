@@ -1,0 +1,2 @@
+These overrides are done via editing the original material, changing a few parameters.
+This is done for heads provided by Modders as NPCs in the game DO NOT use these heads.

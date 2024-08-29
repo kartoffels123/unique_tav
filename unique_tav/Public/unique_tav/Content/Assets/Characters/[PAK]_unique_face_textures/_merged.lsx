@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="0" />
+    <region id="TextureBank">
+        <node id="TextureBank">
+            <children>
+                <node id="Resource">
+                    <attribute id="Depth" type="int32" value="1" />
+                    <attribute id="Height" type="int32" value="4096" />
+                    <attribute id="ID" type="FixedString" value="505e82ee-ed64-05cc-aa31-ieatpaste666" />
+                    <attribute id="Name" type="LSString" value="Skin_Atlas_Head_SHR_Tattoo_A_MSK_unique" />
+                    <attribute id="SRGB" type="bool" value="False" />
+                    <attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/FACE/Skin_Atlas_Head_SHR_Tattoo_A_MSK.DDS" />
+                    <attribute id="Streaming" type="bool" value="True" />
+                    <attribute id="Template" type="FixedString" value="Skin_Atlas_Head_SHR_Tattoo_A_MSK_unique" />
+                    <attribute id="Type" type="int32" value="1" />
+                    <attribute id="Width" type="int32" value="4096" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+                </node>
+                <node id="Resource">
+                    <attribute id="Depth" type="int32" value="1" />
+                    <attribute id="Height" type="int32" value="4096" />
+                    <attribute id="ID" type="FixedString" value="2f72fffe-7602-05c4-b005-ieatpaste666" />
+                    <attribute id="Name" type="LSString" value="Skin_Atlas_Head_SHR_Makeup_A_MSK_unique" />
+                    <attribute id="SRGB" type="bool" value="False" />
+                    <attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/FACE/Skin_Atlas_Head_SHR_Makeup_A_MSK.DDS" />
+                    <attribute id="Streaming" type="bool" value="True" />
+                    <attribute id="Template" type="FixedString" value="Skin_Atlas_Head_SHR_Makeup_A_MSK_unique" />
+                    <attribute id="Type" type="int32" value="1" />
+                    <attribute id="Width" type="int32" value="4096" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+                </node>
+                <!--KITT ADDED THIS-->
+                <node id="Resource">
+                    <attribute id="Depth" type="int32" value="1" />
+                    <attribute id="Height" type="int32" value="4096" />
+                    <attribute id="ID" type="FixedString" value="b59d1a89-bc79-4745-bd7e-ieatpaste666" />
+                    <attribute id="Name" type="LSString" value="Skin_Atlas_Head_DGB_Makeup_A_MSK_unique" />
+                    <attribute id="SRGB" type="bool" value="False" />
+                    <attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/FACE/Skin_Atlas_Head_DGB_Makeup_A_MSK.DDS" />
+                    <attribute id="Streaming" type="bool" value="True" />
+                    <attribute id="Template" type="FixedString" value="Skin_Atlas_Head_DGB_Makeup_A_MSK_unique" />
+                    <attribute id="Type" type="int32" value="1" />
+                    <attribute id="Width" type="int32" value="4096" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725656" />
+                </node>
+                <!-- kart note can't use as overwrite original assets for now, something to look into -->
+                <node id="Resource">
+                    <attribute id="Depth" type="int32" value="1" />
+                    <attribute id="Height" type="int32" value="2048" />
+                    <attribute id="ID" type="FixedString" value="d6462d10-fc2d-8696-e829-ieatpaste666" />
+                    <attribute id="Name" type="LSString" value="Skin_Shared_Scars_MSK_unique" />
+                    <attribute id="SRGB" type="bool" value="False" />
+                    <attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/FACE/Skin_Shared_Scars_MSK.DDS" />
+                    <attribute id="Streaming" type="bool" value="True" />
+                    <attribute id="Template" type="FixedString" value="Skin_Shared_Scars_MSK_unique" />
+                    <attribute id="Type" type="int32" value="1" />
+                    <attribute id="Width" type="int32" value="5120" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+                </node>
+                <!--END ADD-->
+            </children>
+        </node>
+    </region>
+</save>

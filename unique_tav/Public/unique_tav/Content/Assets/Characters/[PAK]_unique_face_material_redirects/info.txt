@@ -1,0 +1,3 @@
+These overrides are done via copying the original material, changing a few parameters (and UUID) then redirecting the heads to use these materials via "RealMaterialOverrides" in the player character visual XML.
+This is done for heads provided by Larian as NPCs in the game use these heads.
+god have mercy on your cpu if you want to edit this file.

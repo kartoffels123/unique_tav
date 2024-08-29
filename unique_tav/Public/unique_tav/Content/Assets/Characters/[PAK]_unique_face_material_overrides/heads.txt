@@ -1,0 +1,36 @@
+heads
+
+author supported:
+Blonded Elf Male Head Mod 01 - Non-Replacer -
+Ellian's heads
+Ghouls Customization Compendium - Custom Heads Horns and Beards
+Head Presets and Glass Skin - T2 and T4 -
+M Half-elf Head 2 - alt style
+Sizeable Assortment of Faces and Textures (SAFT)
+Weeviljester's Ethereal Heads
+
+kartoffel supported:
+Addys Head Presets
+Alt-Shadowheart Head Presets
+Faces of Faerun
+Gufery's Head Presets
+Loulette Heads
+Male Elf and Drow Heads
+M Half Elf Head E Preset for Other Races
+More heads for Tieflings
+New Character Creation Presets WIP
+New head (beeeeeeeeeeeeep)
+Pontiff Head
+Some Heads For Bodytype 2
+Strong Female Heads
+Themia's Sister (Face Preset or Head Replacer for Shadowheart or Minthara)
+Vemperen's Other Heads Repaired (Non-Replacer)
+
+
+race mods:
+Astralities' Tiefling Compendium
+Wine and Revelry (Playable Satyr Race)
+Half angel ( Aasimar 5E )
+Half Demon (Cambion)
+ignore:
+changelings by trips
